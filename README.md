@@ -1,4 +1,4 @@
-- 👋 Olá, sou Murilo Martins!
+## 👋 Olá, sou Murilo Martins!
 - 🌱 Estou aprendendo programação, e busco melhorar
 - 💞️ Quero colaborar em diversos projetos
 - 📫 Pode me contatar via LinkedIn
