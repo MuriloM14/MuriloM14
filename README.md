@@ -4,7 +4,7 @@
 - 📫 Pode me contatar via LinkedIn<br>
 <div style="display: inline_block"><br>
   <img height="180cm" width="48%" src="https://github-readme-stats.vercel.app/api?username=MuriloM14&rank_icon=github&theme=dark&show_icons=true"/>
-  <img height="180cm" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloM14&theme=dark"/>
+  <img height="180cm" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloM14&theme=dark&langs_count=8&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
